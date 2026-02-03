@@ -1,7 +1,7 @@
 # AltsPassport
 
-**Simplified fundraising. Built for alternatives.**  
-**The AI-powered growth platform for alternative fund managers.**
+**Built for alternatives.**  
+**The AI-powered growth platform for alternative fund managers, allocators, and providers.**
 
 ## What we are building
 AltsPassport is building an AI-powered vertical market network for alternative investments—starting with fund managers—by combining alternatives-specific data, workflow software, and explainable scoring/matching to make capital formation more intelligent, efficient, and trustable.
