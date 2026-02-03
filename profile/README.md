@@ -1,18 +1,35 @@
-# AltsPassport
+# AltsPassport, Inc.
 
-**Simplified fundraising. Built for alternatives.**  
-**The AI-powered growth platform for alternative fund managers.**
+This enterprise is the governance boundary for AltsPassport engineering and operating assets.
 
-## What we are building
-AltsPassport is building an AI-powered vertical market network for alternative investments—starting with fund managers—by combining alternatives-specific data, workflow software, and explainable scoring/matching to make capital formation more intelligent, efficient, and trustable.
+## Scope
+This enterprise is used for:
+- Product code (client-facing platform and internal services)
+- Internal operating assets (prompts, workflows, decision logs, revisions)
+- Lightweight scripts and automations that connect our tools
+- Security policy, access control, and auditability across the organization
 
-## What we optimize for
-- **Built for alternatives**: domain-specific workflows and signal, not generic CRM.
-- **Workflow-native**: designed for daily fundraising execution (not static lists).
-- **Trust layer**: provenance and explainability for signals and recommendations.
-- **Conflict-free**: no commissions or revenue shares that bias outcomes.
+## Operating principles (non-negotiable)
+- **No silent writes:** the system stages changes; we approve; then it writes.
+- **Version everything that matters:** prompts, workflow logic, schemas/assumptions, key decisions.
+- **Live today vs in development:** clearly label what is operational vs planned.
+- **Auditability and provenance:** outputs should be explainable and reversible.
+- **Founder-operable:** minimal tooling and minimal configuration.
 
-## Where we are
-We are in active build mode. This GitHub organization is the long-term source of truth for AltsPassport product development and operating assets. Public content here will remain high-signal and evergreen.
+## How work should flow
+- **Issues** for proposals, context, and decisions
+- **Pull Requests** for meaningful changes (even when working solo)
+- **Reviews** required for high-impact changes (security, access, schemas, OS logic)
+- **Main stays clean:** avoid direct pushes for anything material
 
-Website: https://www.altspassport.com
+## Minimum security baseline (expected)
+- 2FA is required for enterprise members and collaborators.
+- Default repository visibility is private.
+- Public repository creation is restricted to owners.
+- Third-party app access and token usage are governed.
+
+## Quick links
+- **Enterprise policies:** Policies tab (top navigation)
+- **Security posture:** Security tab (top navigation)
+- **Billing/licensing:** Billing and licensing tab (top navigation)
+- **Primary organization:** Organizations → AltsPassport
