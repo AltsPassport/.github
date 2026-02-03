@@ -1,4 +1,4 @@
-# AltsPassport, Inc.
+# AltsPassport
 
 This enterprise is the governance boundary for AltsPassport engineering and operating assets.
 
